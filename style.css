@@ -1,0 +1,28 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    font-family: segoe print;
+}
+
+h2 {
+    font-size: 28px;
+    font-family: segoe print;
+}
+
+table {
+    background-color: #00FFFF; 
+    border: 1px solid OrangeRed;
+    font-family: segoe print;
+    font-size: 20px;
+}
+
+p {
+    font-family: segoe print;
+    font-size: 20px;
+}
+
+a {
+    color: black;
+    font-family: segoe print;
+    font-size: 20px;
+}
